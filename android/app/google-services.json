@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260431649114",
+    "project_id": "classwork6-db45b",
+    "storage_bucket": "classwork6-db45b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260431649114:android:f580c673fda7144fca3b63",
+        "android_client_info": {
+          "package_name": "com.example.cw6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoaPblrNey4fi6Kos5dv2snVA_A1cmV-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
